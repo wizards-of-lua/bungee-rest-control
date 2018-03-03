@@ -1,0 +1,4 @@
+name: BungeeRestControl
+main: net.wizardsoflua.bungeerestcontrol.BungeeRestControlPlugin
+version: 1.0.0
+author: https://github.com/mkarneim 
